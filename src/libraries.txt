@@ -1,0 +1,8 @@
+react hook form
+react query
+chakra ui
+material ui
+modular scss
+git (merge, conflikt, branch penen islesiw)
+react select
+react picker
